@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![EMPD Ex 1](https://github.com/KolluruPujitha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231340/4c402ff0-512d-44b8-b6ae-e6c0a4dcfcb3)
+![EMPD EX 3](https://github.com/KolluruPujitha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231340/7cb39be4-87ef-44d1-a631-4d48b7ca7447)
+
 
 
 ### Name: Kolluru Pujitha
