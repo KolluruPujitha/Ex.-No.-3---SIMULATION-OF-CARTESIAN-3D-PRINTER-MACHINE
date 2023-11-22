@@ -59,9 +59,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![EMPD Ex 1](https://github.com/KolluruPujitha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231340/4c402ff0-512d-44b8-b6ae-e6c0a4dcfcb3)
 
-### Name: 
-### Register Number:
+
+### Name: Kolluru Pujitha
+### Register Number:23002983
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
